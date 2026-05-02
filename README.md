@@ -108,7 +108,8 @@ website-traffic-analysis/
 ```
 
 ## 📸 Sample Visualizations
-
+![Preview](images/line_chart.png)
+![Preview](images/sess_vs_enga.png)
 
 ---
 
@@ -128,4 +129,14 @@ website-traffic-analysis/
 
 ## 📌 Conclusion
 This analysis highlights how user behavior varies by time and channel. By focusing on high-engagement channels and optimizing traffic sources, businesses can significantly improve conversion and user retention.
-```
+
+
+## 🚀 Future Improvements
+*   Add time-series forecasting to predict website traffic.
+*   Perform user segmentation for better insights.
+*   Build conversion funnel analysis to find drop-off points.
+
+---
+
+## 👤 Author
+**Kshitiz Singh**
